@@ -1,0 +1,12 @@
+.menu-root {
+    padding: 5px 10px;
+    cursor: initial;
+    opacity: 0.5;
+    background-color: #ccc;
+}
+
+.menu-root:active {
+    cursor: pointer;
+    opacity: 1;
+    background-color: transparent;
+}
